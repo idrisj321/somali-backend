@@ -1,0 +1,6 @@
+fastapi==0.115.6
+uvicorn==0.21.1
+supabase
+asyncpg==0.27.0
+python-dotenv
+pydantic==2.7.0
